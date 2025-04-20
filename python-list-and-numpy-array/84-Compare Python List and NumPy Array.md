@@ -8,7 +8,7 @@
 * Create two lists:  
 
 ```
-# Create two python List say 'List_x' and 'List_your'
+# Create two python List say 'X_list' and 'Y_list'
 X_list = list(range(100000))
 Y_list = list(range(100000))
 ```
